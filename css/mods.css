@@ -1,0 +1,23 @@
+.container img {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+.input {
+    display: flex;
+    justify-content: center;
+}
+
+.input input, .input button {
+    border-radius: 10px;
+    border: 1px solid;
+    padding: 5px 10px;
+}
+
+ul {
+    background-color: #bebebd;
+    border-radius: 10px;
+}
+
